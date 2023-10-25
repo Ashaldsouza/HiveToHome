@@ -2,9 +2,9 @@
 <br><br>
 <p align='center'> <img src="https://github.com/Ashaldsouza/HiveToHome/assets/109797633/bb1355af-fc9f-4380-9236-c5f9f6050edc" width=250></p>
 <br><br>
-
+<p align='justify'>
   Welcome to HiveToHome, an online platform that connects honey enthusiasts with high-quality honey products straight from the hive to their homes. This project aims to provide users with a seamless experience to browse, order, and enjoy various types of honey. The project is built using PHP, MySQL, and HTML, offering a user-friendly interface for honey selection, ordering, and management.
-
+</p>
 ### Table of Contents
 
 - [Features](#features)
